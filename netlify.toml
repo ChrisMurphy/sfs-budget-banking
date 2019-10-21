@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "dist/sfs-budget-banking"
+  functions = "serverless-functions"
+
+[dev]
+  command = "ng serve"
+  targetPort = 4200
+  publish = "dist/sfs-budget-banking"
+  functions = "serverless-functions"
