@@ -1,0 +1,11 @@
+{
+  "name": "banking-authlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "banking-authlink.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truelayer-client": "^1.3.1"
+  }
+}
